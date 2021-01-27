@@ -1,7 +1,5 @@
 # Raj C Shell
-A simple bash-like shell written in C along with a few external commands, with an option to use either the custom commands or the existing programs on the system (from $PATH)
-
-<br>
+A simple bash-like shell written in C along with a few external commands, with an option to use either the custom commands or the existing programs on the system (from $PATH).
 
 The shell is a simple exercise in trying to learn about how shell programs such as bash work. This is **NOT** meant to be a viable daily-use shell, only a proof of concept! Feel free to go through the code!
 
